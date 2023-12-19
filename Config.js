@@ -2,22 +2,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "919931122319"
-global.ownername = "Ayush Pandey"
+global.ownernumber =  "254715264486"
+global.ownername = "ERNEST EDDY "
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Kenyan"
 
-global.ownername = 'Ayush' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.ownername = 'ERNEST' //owner name
+global.botname = 'Anonymous-𝐌𝐃' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
-global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.stickername = 'Tink3rb3ll✰'
+global.packname = 'Poppy and'
+global.author = 'Chupaps'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Erny botz inc."
 
 //theme link
 global.link = 'https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM'
@@ -39,14 +39,14 @@ global.autoread_status = false //auto view status/story
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    prem: 'This feature can be used by premium users only.DM TO purchase premium features',
+    admin: 'This feature can be used by Ernest only',
+    botAdmin: 'This feature can only be used when the bot is a group admin.Failure,amka ukafanye kazi ',
+    owner: 'This feature can be used by Erny only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: 'In process..Tulia mkuu. ',    
+    error: 'Error!Kwani hujijui',
 }
 
 global.thumb = fs.readFileSync('./Gallery/thumb.jpg')
