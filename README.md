@@ -1,5 +1,5 @@
 <a href="https://ibb.co/pQNpmwN"><img src="https://github.com/ErnyEdd/Maria-MD/blob/main/Gallery/Theme-logo/29480f00-5711-4c9e-af11-cdfbd2ff34d4.jpeg" alt="Erny-Md" border="0"></a>
-<h1 align="center">⭐Maria-Md⭐<br></h1>
+<h1 align="center">⭐ERNY-MD⭐<br></h1>
 
 <p align="center"> 
   Hello all, I am "Erny md " a WhatsApp bot made by Ayush and Ernest to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
